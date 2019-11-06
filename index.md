@@ -9,9 +9,9 @@ title: лезвие травы
 
 отрывки без порядка и номера:
 
-- [?](text/why-so-gloom.html)
-- [??](text/visiting.html)
-- [???](text/coughing.html)
+- [?](text/why-so-gloom.html) (wip)
+- [??](text/visiting.html) (wip)
+- [???](text/coughing.html) (wip)
 - [????](text/ads.html)
-- [?????](text/meeting.html)
-- [??????](text/night.html)
+- [?????](text/meeting.html) (wip)
+- [??????](text/night.html) (wip)
