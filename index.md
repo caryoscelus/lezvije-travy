@@ -5,7 +5,8 @@ title: лезвие травы
 по мере написания здесь публикуется черновик романа
 
 - [000](text/000.html)
-- [001](text/001.html)
+- [001](text/001.html) (wip)
+- [002](text/002.html) (wip)
 
 отрывки без порядка и номера:
 
@@ -14,4 +15,4 @@ title: лезвие травы
 - [???](text/coughing.html) (wip)
 - [????](text/ads.html)
 - [?????](text/meeting.html) (wip)
-- [??????](text/night.html) (wip)
+- [??????](text/night.html)
