@@ -6,7 +6,8 @@ title: лезвие травы
 
 - [000](text/000.html)
 - [001](text/001.html)
-- [002](text/002.html) (wip)
+- [002](text/002.html)
+- [003](text/003.html)
 
 отрывки без порядка и номера:
 
@@ -14,7 +15,6 @@ title: лезвие травы
 - [??](text/visiting.html) (wip)
 - [???](text/coughing.html) (wip)
 - [????](text/ads.html)
-- [??????](text/night.html)
 - [????????](text/why-rain.html) (wip)
 - [?????????](text/those-liberals.html) (wip)
 
