@@ -23,3 +23,4 @@ title: лезвие травы
 - [n + 0](text/meeting.html)
 - [n + 1](text/chronic-lack.html) (wip)
 - [n + 2](text/meeting-2.html) (wip)
+- [n + 3](text/miki.html) (wip)
