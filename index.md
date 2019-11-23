@@ -21,6 +21,7 @@ title: лезвие травы
 с порядком без номера:
 
 - [n + 0](text/meeting.html)
-- [n + 1](text/chronic-lack.html) (wip)
+- [n + 1](text/chronic-lack.html)
 - [n + 2](text/meeting-2.html) (wip)
 - [n + 3](text/miki.html) (wip)
+- [n + 4](text/miki-more.html) (wip)
