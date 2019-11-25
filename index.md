@@ -8,10 +8,10 @@ title: лезвие травы
 - [001](text/001.html)
 - [002](text/002.html)
 - [003](text/003.html)
+- [004](text/004.html)
 
 отрывки без порядка и номера:
 
-- [?](text/why-so-gloom.html) (wip)
 - [??](text/visiting.html) (wip)
 - [???](text/coughing.html) (wip)
 - [????](text/ads.html)
